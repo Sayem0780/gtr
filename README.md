@@ -4,7 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is build on the basis of given ui. Here I used svg code for generating the medias. 
+Provider is used for state management.
+By Default DashBoardScreen() will appear after third  intro page as the landing page. Here I extracted data from the given api. In ever ListTitle the title is extracted from the given api.
+If you want to checkout the landing page on basis of design you can change it by calling DashBoardUIScreen() intead of DashBoardScreen() from third_screen.dart file.
 
 A few resources to get you started if this is your first Flutter project:
 
