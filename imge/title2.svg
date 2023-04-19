@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="310" height="86" viewBox="-50 0 480 100">
+    <text id="Best_Quality_Grocery_Door_to_Door" data-name="Best Quality
+Grocery Door to Door" transform="translate(155 35)" fill="#707070" font-size="32" font-family="SegoeUI-Light, Segoe UI" font-weight="300">
+        <tspan x="-79.219" y="0">Best Quality</tspan>
+        <tspan fill="#019102" font-family="SegoeUI-Bold, Segoe UI" font-weight="700">
+            <tspan x="-154.352" y="43">Grocery</tspan>
+            <tspan y="70" fill="#48b749"> </tspan>
+            <tspan y="43" fill="#707070" font-family="SegoeUI-Light, Segoe UI" font-weight="300" opacity="0.8"> Door to Door</tspan>
+        </tspan>
+    </text>
+</svg>
