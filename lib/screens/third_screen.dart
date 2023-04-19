@@ -19,7 +19,7 @@ class _ThirdScreenState extends State<ThirdScreen> {
     // TODO: implement initState
     // final user=_auth.currentUser;
     Timer(Duration(seconds: 3), (){
-      Navigator.of(context).pushNamed(DashboardScreen.routeName);
+      Navigator.of(context).pushNamed(DashboardUIScreen.routeName);
     });
     super.initState();
   }
